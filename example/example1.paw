@@ -1,0 +1,5 @@
+fungsi halo(nama) {
+  tulis("Halo " + nama)
+}
+
+halo("Dunia")

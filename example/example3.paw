@@ -1,0 +1,5 @@
+lepas a = 5
+lepas b = 7
+lepas hasil = a + b
+
+tulis("Hasil penjumlahan: " + hasil)

@@ -1,0 +1,12 @@
+deklar rl = require("readline").createInterface({
+  input: proses.stdin,
+  output: proses.stdout
+})
+
+rl.question("Masukkan angka pertama: ", (angka1) => {
+  rl.question("Masukkan angka kedua: ", (angka2) => {
+    lepas hasil = parseInt(angka1) + parseInt(angka2)
+    tulis("Hasil penjumlahan: " + hasil)
+    rl.close()
+  })
+})

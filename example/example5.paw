@@ -1,0 +1,2 @@
+deklar fs = require("fs")
+tulis(fs.readFileSync("README.md", "utf8"))

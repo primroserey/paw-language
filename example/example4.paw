@@ -1,0 +1,10 @@
+fungsi tunda(ms) {
+  kembalikan baru Janji((lanjut) => setWaktu(lanjut, ms))
+}
+
+fungsi utama() {
+  tunggu tunda(1000)
+  tulis("1 detik berlalu")
+}
+
+utama()

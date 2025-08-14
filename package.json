@@ -1,0 +1,22 @@
+{
+  "name": "paw-language",
+  "version": "1.0.0",
+  "description": "Paww programming language",
+  "main": "paw.js",
+  "bin": {
+    "paw": "./paw.js"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primroserey/paw-language.git"
+  },
+  "author": "Reyy Codee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/primroserey/paw-language/issues"
+  },
+  "homepage": "https://github.com/primroserey/paw-language#readme"
+}

@@ -1,0 +1,10 @@
+ganti (3) {
+  menu 1:
+    tulis("Satu")
+    selesai
+  menu 2:
+    tulis("Dua")
+    selesai
+  semula:
+    tulis("Bukan satu atau dua")
+}

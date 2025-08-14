@@ -1,0 +1,8 @@
+lepas nama = "Paw"
+tulis("Namaku " + nama)
+
+jika (benar) {
+  tulis("Ini benar")
+} maka {
+  tulis("Ini salah")
+}
